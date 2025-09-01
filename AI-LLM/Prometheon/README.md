@@ -172,3 +172,7 @@ Regularly audit LLM usage in applications
 ### References
 
 - [Owasp Prompt Injection](https://genai.owasp.org/llmrisk/llm01-prompt-injection/)
+
+### Pawned
+
+![alt](images/pawned.png)
